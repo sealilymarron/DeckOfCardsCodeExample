@@ -1,0 +1,5 @@
+c:\users\kayla\documents\visual studio 2010\Projects\ShiftWiseCodeExercise\ShiftWiseCodeExercise\bin\ShiftWiseCodeExercise.dll
+c:\users\kayla\documents\visual studio 2010\Projects\ShiftWiseCodeExercise\ShiftWiseCodeExercise\bin\ShiftWiseCodeExercise.pdb
+c:\users\kayla\documents\visual studio 2010\Projects\ShiftWiseCodeExercise\ShiftWiseCodeExercise\obj\Debug\ShiftWiseCodeExercise.dll
+c:\users\kayla\documents\visual studio 2010\Projects\ShiftWiseCodeExercise\ShiftWiseCodeExercise\obj\Debug\ShiftWiseCodeExercise.pdb
+C:\Users\Kayla\Documents\Visual Studio 2010\Projects\ShiftWiseCodeExercise\ShiftWiseCodeExercise\obj\Debug\ShiftWiseCodeExercise.csprojResolveAssemblyReference.cache

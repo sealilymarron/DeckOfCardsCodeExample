@@ -1,0 +1,16 @@
+
+.Clubs, .Diamonds, .Hearts, .Spades {
+	border: 1px solid;
+	padding: 3px;
+	margin: 1px;
+	width: 150px;
+}
+
+.Hearts, .Diamonds {
+	border-color: red;
+}
+
+.Clubs, .Spades {
+	border-color: black;
+}
+

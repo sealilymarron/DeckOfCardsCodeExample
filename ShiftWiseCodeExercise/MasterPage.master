@@ -1,0 +1,30 @@
+﻿<%@ Master Language="C#" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="/Content/Site.css">
+</head>
+<body>
+
+<div>
+    <h1>ShiftWise Code Example</h1>
+    <h3>by Kayla Gould</h3>
+    ***These pages intentionally left ugly because they weren't really asked for.***
+    </div>
+<div class="nav">
+    <a href="/Home/">Home</a>
+    <a href="/Home/Shuffle/">Shuffle</a>
+    <a href="/Home/SortAsc/">Sort Ascending</a>
+</div>
+<form id="form1" runat="server">
+	<div>
+		<asp:ContentPlaceHolder id="MainContent" runat="server">
+        
+		</asp:ContentPlaceHolder>
+	</div>
+</form>
+</body>
+</html>

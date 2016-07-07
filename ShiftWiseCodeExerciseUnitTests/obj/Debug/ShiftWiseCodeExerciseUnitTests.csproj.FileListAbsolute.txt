@@ -1,0 +1,10 @@
+c:\users\kayla\documents\visual studio 2010\Projects\ShiftWiseCodeExercise\ShiftWiseCodeExerciseUnitTests\bin\Debug\ShiftWiseCodeExerciseUnitTests.dll
+c:\users\kayla\documents\visual studio 2010\Projects\ShiftWiseCodeExercise\ShiftWiseCodeExerciseUnitTests\bin\Debug\ShiftWiseCodeExerciseUnitTests.pdb
+c:\users\kayla\documents\visual studio 2010\Projects\ShiftWiseCodeExercise\ShiftWiseCodeExerciseUnitTests\bin\Debug\ShiftWiseCodeExercise.dll
+c:\users\kayla\documents\visual studio 2010\Projects\ShiftWiseCodeExercise\ShiftWiseCodeExerciseUnitTests\bin\Debug\ShiftWiseCodeExercise.pdb
+c:\users\kayla\documents\visual studio 2010\Projects\ShiftWiseCodeExercise\ShiftWiseCodeExerciseUnitTests\obj\Debug\ShiftWiseCodeExerciseUnitTests.csprojResolveAssemblyReference.cache
+c:\users\kayla\documents\visual studio 2010\Projects\ShiftWiseCodeExercise\ShiftWiseCodeExerciseUnitTests\obj\Debug\ShiftWiseCodeExerciseUnitTests.dll
+c:\users\kayla\documents\visual studio 2010\Projects\ShiftWiseCodeExercise\ShiftWiseCodeExerciseUnitTests\obj\Debug\ShiftWiseCodeExerciseUnitTests.pdb
+C:\Users\Kayla\documents\visual studio 2010\Projects\ShiftWiseCodeExercise\ShiftWiseCodeExerciseUnitTests\bin\Debug\nunit.core.dll
+C:\Users\Kayla\documents\visual studio 2010\Projects\ShiftWiseCodeExercise\ShiftWiseCodeExerciseUnitTests\bin\Debug\nunit.framework.dll
+C:\Users\Kayla\documents\visual studio 2010\Projects\ShiftWiseCodeExercise\ShiftWiseCodeExerciseUnitTests\bin\Debug\nunit.framework.xml
