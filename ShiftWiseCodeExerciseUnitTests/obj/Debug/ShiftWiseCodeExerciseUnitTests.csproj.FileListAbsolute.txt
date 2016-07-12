@@ -8,3 +8,16 @@ c:\users\kayla\documents\visual studio 2010\Projects\ShiftWiseCodeExercise\Shift
 C:\Users\Kayla\documents\visual studio 2010\Projects\ShiftWiseCodeExercise\ShiftWiseCodeExerciseUnitTests\bin\Debug\nunit.core.dll
 C:\Users\Kayla\documents\visual studio 2010\Projects\ShiftWiseCodeExercise\ShiftWiseCodeExerciseUnitTests\bin\Debug\nunit.framework.dll
 C:\Users\Kayla\documents\visual studio 2010\Projects\ShiftWiseCodeExercise\ShiftWiseCodeExerciseUnitTests\bin\Debug\nunit.framework.xml
+C:\Users\Kayla\Documents\Visual Studio 2015\Projects\ShiftWiseCodeExercise\ShiftWiseCodeExerciseUnitTests\bin\Debug\ShiftWiseCodeExerciseUnitTests.dll
+C:\Users\Kayla\Documents\Visual Studio 2015\Projects\ShiftWiseCodeExercise\ShiftWiseCodeExerciseUnitTests\bin\Debug\ShiftWiseCodeExerciseUnitTests.pdb
+C:\Users\Kayla\Documents\Visual Studio 2015\Projects\ShiftWiseCodeExercise\ShiftWiseCodeExerciseUnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Kayla\Documents\Visual Studio 2015\Projects\ShiftWiseCodeExercise\ShiftWiseCodeExerciseUnitTests\bin\Debug\nunit.core.dll
+C:\Users\Kayla\Documents\Visual Studio 2015\Projects\ShiftWiseCodeExercise\ShiftWiseCodeExerciseUnitTests\bin\Debug\nunit.framework.dll
+C:\Users\Kayla\Documents\Visual Studio 2015\Projects\ShiftWiseCodeExercise\ShiftWiseCodeExerciseUnitTests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Kayla\Documents\Visual Studio 2015\Projects\ShiftWiseCodeExercise\ShiftWiseCodeExerciseUnitTests\bin\Debug\nunit.framework.xml
+C:\Users\Kayla\Documents\Visual Studio 2015\Projects\ShiftWiseCodeExercise\ShiftWiseCodeExerciseUnitTests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Kayla\Documents\Visual Studio 2015\Projects\ShiftWiseCodeExercise\ShiftWiseCodeExerciseUnitTests\obj\Debug\ShiftWiseCodeExerciseUnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Kayla\Documents\Visual Studio 2015\Projects\ShiftWiseCodeExercise\ShiftWiseCodeExerciseUnitTests\obj\Debug\ShiftWiseCodeExerciseUnitTests.dll
+C:\Users\Kayla\Documents\Visual Studio 2015\Projects\ShiftWiseCodeExercise\ShiftWiseCodeExerciseUnitTests\obj\Debug\ShiftWiseCodeExerciseUnitTests.pdb
+C:\Users\Kayla\Documents\Visual Studio 2015\Projects\ShiftWiseCodeExercise\ShiftWiseCodeExerciseUnitTests\bin\Debug\ShiftWiseCodeExercise.dll
+C:\Users\Kayla\Documents\Visual Studio 2015\Projects\ShiftWiseCodeExercise\ShiftWiseCodeExerciseUnitTests\bin\Debug\ShiftWiseCodeExercise.pdb

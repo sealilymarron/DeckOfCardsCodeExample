@@ -1,8 +1,8 @@
-Kayla Gould 7/6/2016 Coding Example for ShiftWise
+Kayla Gould 7/11/2016 Coding Example for ShiftWise
 
-This example is coded against MVC2 and .NET 4.0 because that's what my computer had on it. I wish I'd taken the time to download a newer version of MVC. MVC2 doesn't even let you use Razor and that's much easier to work with. 
+This example is coded as a .NET 4.5.2 class library.
 
-The unit tests were done using NUnit (3.4.1.0) and run in VS2010 using ReSharper. 
+The unit tests were done using NUnit (3.4.1.0) and run in VS2015 using NUnit3 Test Adapter extension.
 
 Notes:
 * "Ascending alphabetical order: clubs (lowest), followed by diamonds, hearts, and spades (highest). This ranking is used in the game of bridge." from https://en.wikipedia.org/wiki/High_card_by_suit
